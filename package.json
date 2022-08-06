@@ -1,0 +1,14 @@
+{
+  "name": "99eb81eab1a14081",
+  "main": "99eb81eab1a14081@188.js",
+  "version": "188.0.0",
+  "homepage": "https://observablehq.com/d/99eb81eab1a14081",
+  "author": {
+    "name": "Agniva De Sarker",
+    "url": "https://observablehq.com/@agnivade"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
